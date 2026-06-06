@@ -1,0 +1,12 @@
+{
+  "name": "bankruptcy-claims-review",
+  "version": "1.0.0",
+  "description": "破产债权审查 - 生成申报债权初审意见通知书",
+  "main": "generate_notice.js",
+  "scripts": {
+    "start": "node generate_notice.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}
